@@ -109,7 +109,7 @@ footer{
    
     display:flex;
     justify-content:space-around;
-    width:40%;
+    width:50%;
     align-items: center;
     }
 #header-links a {
@@ -214,7 +214,7 @@ img {
     padding-left: 0;
   }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 992px) {
     .app {
         flex:100%;
     }
