@@ -71,6 +71,7 @@ footer{
     position: absolute;
     right:40px;
     bottom: 10px;
+    color:rgb(27, 74, 80);
 }
 .subtitle h2{
   
@@ -98,6 +99,7 @@ footer{
     background: rgb(126, 148, 151);
     padding-left:10px;
     font-size: 40px;
+    color:rgb(27, 74, 80)
  
 }
 #header-links{
@@ -140,6 +142,7 @@ padding:30px;
    vertical-align: middle; */
    font-size: 50px;
    border-right:black 2px solid;
+   color: rgb(27, 74, 80);
  
 }
 #paragraphs{
