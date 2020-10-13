@@ -113,6 +113,11 @@ footer{
     font-size: 20px;
     font-weight: 900;
   }
+  #header-links a:hover{
+    color: rgb(225, 235, 236);
+
+  }
+
   main{
       display:flex;
       flex-direction: column;
@@ -157,8 +162,11 @@ padding:30px;
     font-size: 20px;
 
 }
-#footer-links a{
+ a{
     color:rgb(8, 82, 92); 
+}
+ a:hover{
+    color:rgb(103, 161, 103);
 }
 #surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover{
     flex:50%;
