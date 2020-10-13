@@ -193,8 +193,13 @@ a:after {
     color:rgb(103, 161, 103);
 }
 #surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover{
-    flex:50%;
-    height:220px;
+    /* flex:50%;
+    height:220px; */
+ -webkit-transform: scale(0.8);
+-ms-transform: scale(0.8);
+transform: scale(0.8);
+transition: 1s ease;
+   
 }
 @media screen and (max-width: 900px) {
     .app {
