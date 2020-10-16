@@ -39,6 +39,10 @@ background: #31343d;
     position: relative;
    
 }
+#surf{
+
+    flex:100%;
+}
 
 
 .app div{
@@ -116,7 +120,7 @@ footer{
    
     display: flex;
     justify-content: space-around;
-    width: 50%;
+    width: 40%;
     align-items: center;
     padding-right: 60px;
     }
@@ -185,7 +189,7 @@ aside div{
 }
 #paragraphs{
     width:70%;
-    margin-left: 15px;
+    margin-left: 17px;
     margin-right: 20px;
     color: #445877;
     font-size: 20px;
@@ -246,13 +250,17 @@ img {
     padding-left: 0;
   }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1000px) {
     .app {
         flex:100%;
     }
     #header-links a{
         font-size:12px ;
     }
+    #header-links{
+        width: 40%;
+    }
+    
     #paragraphs{
         
         font-size: 15px;
@@ -275,6 +283,9 @@ img {
     }
     #header-links a{
         font-size:8px ;
+    }
+    #header-links{
+        width: 50%;
     }
     #paragraphs{
         
