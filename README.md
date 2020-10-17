@@ -5,6 +5,7 @@
 
 ## This is the link for [my deployed application.]
 
-###Here is screenshot of my application.
+### Here are screen-shots of my app.
+
 ![My Portfolio Screen Shot1](https://github.com/hhutku/portfolio/blob/main/assets/images/port1.png)
 ![My Portfolio Screen Shot1](https://github.com/hhutku/portfolio/blob/main/assets/images/port2.png)
