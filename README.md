@@ -1,9 +1,9 @@
 # My Portfolio
 
-## This is a **[Portolio]** which you can see all my progress during the course in this bootcamp.
+## This is a **[Portolio](https://github.com/hhutku/portfolio)** which you can see all my progress during the course in this bootcamp.
 ## You can see all apps I can use and my work about these apps.
 
-## This is the link for [my deployed application.]  [my deployed application.]: https://hhutku.github.io/portfolio/
+## This is the link for [my deployed application.] (https://hhutku.github.io/portfolio/)
 
 ### Here are screen-shots of my app.
 
@@ -15,3 +15,4 @@
 
 
 
+This is the [link of refactored page]( https://hhutku.github.io/refactoring/)
