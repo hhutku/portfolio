@@ -205,7 +205,7 @@ aside div h2{
 
 
 #footer-links{
-    width:70%;
+    width:70%;       
     margin-left: 20px;
     margin-right: 20px;
     display:flex;
@@ -256,8 +256,13 @@ img {
     margin-left:0px;
     padding-left: 0;
   }
+  @media screen and (max-width: 1100px){
 
-@media screen and (max-width: 1000px) {
+    #header-links{
+        width: 50%;
+    }
+  }
+@media screen and (max-width: 992px) {
     .app {
         flex:100%;
     }
@@ -265,7 +270,7 @@ img {
         font-size:12px ;
     }
     #header-links{
-        width: 40%;
+        width: 50%;
     }
     
     #paragraphs{
