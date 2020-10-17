@@ -55,7 +55,7 @@ background: #31343d;
     top:60px;
     
 }
-.app div h1{
+.app div h2{
     margin-top:5px;
     margin-bottom: 0px;
     color:#1c1d21;
@@ -187,6 +187,13 @@ aside div{
     width: 170px;
     text-align: right;
 }
+aside div h2{
+
+    font-size: 50px;
+   
+    color: #445877;
+    font-weight: 800;
+}
 #paragraphs{
     width:70%;
     margin-left: 17px;
@@ -270,8 +277,10 @@ img {
         font-size: 31px;
      
     }
-    aside{
+    aside div h2{
+
         font-size: 40px;
+            
     }
     #foto {
         width: 15%;}
@@ -296,8 +305,12 @@ img {
         font-size: 25px;
      
     }
-    aside{
+ 
+    aside div h2{
+
         font-size: 26px;
+       
+      
     }
     #foto {
         width: 23%;}
