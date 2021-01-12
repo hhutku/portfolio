@@ -200,7 +200,7 @@ aside div h2{
 #footer-links a:hover{
     color:#92ccce;
 }
-#surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover{
+#surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover,#not-taker:hover,#burger:hover{
  -webkit-transform: scale(0.8);
 -ms-transform: scale(0.8);
 transform: scale(0.8);
