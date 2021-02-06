@@ -33,9 +33,9 @@ header{
     position: relative;
     opacity: 0.7;
 }
-#surf{
+/* #surf{
     flex:100%;
-}
+} */
 .app div{
     border:6px solid #92ccce;
     background-color:#92ccce;
@@ -200,7 +200,7 @@ aside div h2{
 #footer-links a:hover{
     color:#92ccce;
 }
-#surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover,#not-taker:hover,#burger:hover{
+#surf:hover , #led:hover,#puzzle:hover,#calculator:hover,#run:hover,#not-taker:hover,#burger:hover,#bookClub:hover{
  -webkit-transform: scale(0.8);
 -ms-transform: scale(0.8);
 transform: scale(0.8);
